@@ -16,3 +16,4 @@ char* nim_ray[6]={"f1b019111",
 	printf("nim mahasiswa ke- 6 = %s\n",nim_ray[5]);
 }
 
+
