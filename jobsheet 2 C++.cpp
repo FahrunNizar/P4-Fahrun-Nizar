@@ -22,3 +22,4 @@ cout<<"masukan nim 6 : ";
 cin>>x[5];
 return 0 ;
 }
+
